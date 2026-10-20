@@ -1,14 +1,3 @@
----
-AIGC:
-    Label: "1"
-    ContentProducer: 001191440300708461136T1XGW3
-    ProduceID: 53131dd70249068ba17a80f1eabe0bc1_25b3613dbcaf11f19ba1525400638852
-    ReservedCode1: OuKPXwJRplVvY4MmEkYjEjsUoZWq0d4BdcY5gQh+XiNF8UXzcD0rO49ogg5d9KIhx+oCv/p3pEs2PyvZCu2xuDbix/QvK6vM0B5fG1Nb04owuNdiuarp/NfhcBi3nfoe7OZGe1NOLfV+5L1WbHDOGfChQMIbFDfX/uIv3bodhUi9LRZJD1AJ2CN/RLU=
-    ContentPropagator: 001191440300708461136T1XGW3
-    PropagateID: 53131dd70249068ba17a80f1eabe0bc1_25b3613dbcaf11f19ba1525400638852
-    ReservedCode2: OuKPXwJRplVvY4MmEkYjEjsUoZWq0d4BdcY5gQh+XiNF8UXzcD0rO49ogg5d9KIhx+oCv/p3pEs2PyvZCu2xuDbix/QvK6vM0B5fG1Nb04owuNdiuarp/NfhcBi3nfoe7OZGe1NOLfV+5L1WbHDOGfChQMIbFDfX/uIv3bodhUi9LRZJD1AJ2CN/RLU=
-layout: home
-
 hero:
   name: 数字孪生场景编辑器
   text: 一套把「3D 场景」当文档来编辑、存储、导出、播放的开源工具链
@@ -50,4 +39,3 @@ features:
 | API 参考 | [播放包 API](player/api.md) |
 | scene.json 每个字段 | [场景文档协议](protocol.md) |
 | 踩坑了 | [FAQ](faq.md) |
-*（内容由AI生成，仅供参考）*
